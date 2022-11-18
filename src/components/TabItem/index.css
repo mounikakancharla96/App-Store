@@ -1,0 +1,15 @@
+.tab-lists {
+    list-style-type: none;
+    margin-right: 20px;
+}
+.button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #7b8794;
+    font-weight: bold;
+    font-size: 18px;
+}
+.mode1 {
+    color: #2563eb;
+}
